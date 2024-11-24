@@ -20,4 +20,4 @@
 - C#
 
 ## יצירת קשר
-לשאלות, משוב או הצעות, ניתן ליצור קשר באמצעות האימייל: [tomgoz96@gmail.com](tomgoz96@gmail.com)
+לשאלות, הערות או משוב, פנו אלינו: [tomgoz96@gmail.com](mailto:tomgoz96@gmail.com).
